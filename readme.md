@@ -17,7 +17,7 @@
     点击【New repository secrets】 按钮新建：
 
    * USERNAME：中南大学学工号
-/
+
    * PASSWORD：信息门户密码
 
 3. 启动定时打卡
