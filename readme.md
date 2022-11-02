@@ -9,7 +9,7 @@
 ## 使用
 
 1. Fork本项目到你的仓库
-   
+
 2. 设置Secrets
    
     从Github中进入刚刚fork到你的个人账号下的本项目，依次点击上栏 【Setting】->【Security】->【Secrets】->【Actions】
